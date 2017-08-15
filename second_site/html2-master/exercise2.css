@@ -1,0 +1,16 @@
+ul.nav li{
+    display: inline-block;
+    padding-right: 10px;
+background-color:red;
+color:white;
+font-weight:20
+}
+a:link{color:pink
+}
+div #about_blue {background-color:skyblue;}
+li{color:blue;}
+
+
+div#about_yellow li {color:orange;} 
+<ol>{background-color:lightyellow;}</ol>
+
